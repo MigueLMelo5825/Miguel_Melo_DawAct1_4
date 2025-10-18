@@ -13,6 +13,8 @@ El objetivo de esta actividad es **practicar el uso de Markdown** y **GitHub**.
 - `README.md` → Documento explicativo con formato Markdown.  
 - `.vscode` → Directorio que contiene el archivo .gitignore y el archivo ignorado settings.json
 - `img` → Directorio que contiene las imagenes usadas para el repositorio
+- `css` → Directorio que contiene los archivos **CSS** que modifica el diseño y estilo de index.html
+- `js` → Directorio que contiene los archivos **JavaScript** que dan interaccion a la web de index.html
 
 Puedes consultar la documentación oficial de Markdown dando click a la siguiente imagen: 
 
@@ -33,16 +35,25 @@ Puedes consultar la documentación oficial de Markdown dando click a la siguient
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Actividad 1.4 </title>
+    <link rel="stylesheet" href="./css/index.css">
 </head>
 <body>
-    <h1>Modulo de Desarrollo de Aplicaciones Web</h1>
-    <ul>
-        <li>Despliegue de Aplicaciones Web</li>
-        <li>Programaci&oacuten</li>
-        <li>Base de datos</li>
-        <li>Lenguaje de marcas</li>
-        <li>Desarrollo en entorno cliente</li>
-    </ul>
+    
+    <h1>Módulo de Desarrollo de Aplicaciones Web</h1>
+
+        <ul id="modulos">
+            <li>Despliegue de Aplicaciones Web</li>
+            <li>Programación</li>
+            <li>Base de Datos</li>
+            <li>Lenguajes de Marcas</li>
+            <li>Desarrollo en Entorno Cliente</li>
+        </ul>
+
+    <footer>
+        © 2025 Miguel Melo - Actividad 1.4
+    </footer>
+
+<script src="./js/index.js"></script>
 </body>
 </html>
 
