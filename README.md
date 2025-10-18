@@ -15,8 +15,7 @@ El objetivo de esta actividad es **practicar el uso de Markdown** y **GitHub**.
 - `img` → Directorio que contiene las imagenes usadas para el repositorio
 
 Puedes consultar la documentación oficial de Markdown en este enlace:  
-[![Guía de Markdown de GitHub](../Miguel_Melo_DawAct1_4/img/Markdown.jpg)]
-[Enlace de la guia de Markdown](https://guides.github.com/features/mastering-markdown/)
+[![Guía de Markdown de GitHub](img/markdown.jpg)](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
