@@ -14,11 +14,11 @@ El objetivo de esta actividad es **practicar el uso de Markdown** y **GitHub**.
 - `.vscode` → Directorio que contiene el archivo .gitignore y el archivo ignorado settings.json
 
 Puedes consultar la documentación oficial de Markdown en este enlace:  
-[Guía de Markdown de GitHub](https://guides.github.com/features/mastering-markdown/)
+[![Guía de Markdown de GitHub](../Miguel_Melo_DawAct1_4/img/Markdown.png)](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
-### 💻 Ejemplo de Código (HTML)
+### Ejemplo de Código (HTML)
 
 ```html
 <!DOCTYPE html>
