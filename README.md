@@ -14,11 +14,13 @@ El objetivo de esta actividad es **practicar el uso de Markdown** y **GitHub**.
 - `.vscode` → Directorio que contiene el archivo .gitignore y el archivo ignorado settings.json
 - `img` → Directorio que contiene las imagenes usadas para el repositorio
 
-Puedes consultar la documentación oficial de Markdown en este enlace: 
+Puedes consultar la documentación oficial de Markdown dando click a la siguiente imagen: 
 
-<a href="https://guides.github.com/features/mastering-markdown/">
-  <img src="./img/Markdown.jpg" alt="Guía de Markdown de GitHub" width="250">
-</a>
+<p align="center">
+  <a href="https://guides.github.com/features/mastering-markdown/">
+    <img src="./img/Markdown.jpg" alt="Guía de Markdown de GitHub" width="250">
+  </a>
+</p>
 
 ---
 
