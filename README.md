@@ -1,1 +1,43 @@
-# Miguel_Melo_DawAct1_4
+# Actividad 1.4 Markdown y GithubLab
+## Miguel Melo Daw-7k
+### Despliegue de aplicaciones web
+
+Este repositorio contiene una página sencilla creada en **HTML** que muestra los distintos *módulos del Grado superior de Desarrollo de Aplicaciones Web*.  
+El objetivo de esta actividad es **practicar el uso de Markdown** y **GitHub**.
+
+---
+
+## Contenido del Repositorio
+
+- `index.html` → Página principal con la lista de módulos.  
+- `README.md` → Documento explicativo con formato Markdown.  
+- `.vscode` → Directorio que contiene el archivo .gitignore y el archivo ignorado settings.json
+
+Puedes consultar la documentación oficial de Markdown en este enlace:  
+[Guía de Markdown de GitHub](https://guides.github.com/features/mastering-markdown/)
+
+---
+
+### 💻 Ejemplo de Código (HTML)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad 1.4 </title>
+</head>
+<body>
+    <h1>Modulo de Desarrollo de Aplicaciones Web</h1>
+    <ul>
+        <li>Despliegue de Aplicaciones Web</li>
+        <li>Programaci&oacuten</li>
+        <li>Base de datos</li>
+        <li>Lenguaje de marcas</li>
+        <li>Desarrollo en entorno cliente</li>
+    </ul>
+</body>
+</html>
+
+
